@@ -8,6 +8,7 @@
 1. You are allowed to use any frameworks to assist you in the task. If you do so, please provide a very brief reasoning as why you chose to use this framework. This is just to get an understanding of your approach and won’t be penalized.
 1. You are given creative freedom to design the UI as you seem fit to display the given data. Your design choices won’t be penalized.
 1. Provide any required build parameters required to build and run your application.
+1. Instructions to share your code back with us will have been provided via email.
 
 ### Acceptance Criteria
 
