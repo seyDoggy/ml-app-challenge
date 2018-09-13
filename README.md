@@ -1,7 +1,9 @@
-# Application Challenge
+# [__**Version Française**__](https://github.com/josecfernandes/ml-app-challenge/blob/master/README_FR.md)
+
+## Application Challenge
 ##### Coding challenge for prospective candidates
 
-### Intructions
+### Intructions 
 
 1. The objective is to create a runnable native mobile application to the below acceptance criteria.
 1. The data required for each view is contained in the `/data` folder.
