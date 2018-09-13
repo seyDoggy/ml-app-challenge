@@ -34,7 +34,7 @@ ___
 **SCÉNARIO: L'utilisateur veut voir les transactions d'un compte particulier**  
 LORSQUE l'utilisateur visualise une liste de comptes    
 QUAND l'utilisateur tape sur un compte spécifique   
-L'utilisateur est alors présenté une vue contenant un historique des transactions pour ledit compte.
+ALORS L'utilisateur est alors présenté une vue contenant un historique des transactions pour ledit compte.
 ___
 **SCÉNARIO: L'utilisateur veut arrêter de visualiser une liste de comptes** 
 LORSQUE l'utilisateur visualise une liste de comptes    
