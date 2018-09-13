@@ -24,20 +24,20 @@ ET la page a un bouton "Quitter" dans la barre de navigation.
 ___
 **SCÉNARIO: L'utilisateur lance votre application plusieurs fois successivement**   
 LORSQUE l'utilisateur est sur l'écran d'accueil de son appareil mobile   
-ET l'utilisateur a déjà ouvert l'application auparavant
-ET l'utilisateur n'a pas tapé sur le bouton "Quitter" lors de sa session précédente
-QUAND l'utilisateur ouvre l'application
-ALORS l'utilisateur est amené à une page avec une liste de ses comptes
-ET quelques données pour chaque compte
-ET la page a un bouton "Quitter" dans la barre de navigation.
+ET l'utilisateur a déjà ouvert l'application auparavant 
+ET l'utilisateur n'a pas tapé sur le bouton "Quitter" lors de sa session précédente 
+QUAND l'utilisateur ouvre l'application 
+ALORS l'utilisateur est amené à une page avec une liste de ses comptes  
+ET quelques données pour chaque compte  
+ET la page a un bouton "Quitter" dans la barre de navigation.   
 ___
-**SCÉNARIO: L'utilisateur veut voir les transactions d'un compte particulier**
-LORSQUE l'utilisateur visualise une liste de comptes
-QUAND l'utilisateur tape sur un compte spécifique
+**SCÉNARIO: L'utilisateur veut voir les transactions d'un compte particulier**  
+LORSQUE l'utilisateur visualise une liste de comptes    
+QUAND l'utilisateur tape sur un compte spécifique   
 L'utilisateur est alors présenté une vue contenant un historique des transactions pour ledit compte.
 ___
-**SCÉNARIO: L'utilisateur veut arrêter de visualiser une liste de comptes**
-LORSQUE l'utilisateur visualise une liste de comptes
-QUAND l'utilisateur appuie sur le bouton "Quitter"
-L'utilisateur se voit rediriger vers la page d’accueil de l’application avec un bouton intitulé "Ouvrir".
+**SCÉNARIO: L'utilisateur veut arrêter de visualiser une liste de comptes** 
+LORSQUE l'utilisateur visualise une liste de comptes    
+QUAND l'utilisateur appuie sur le bouton "Quitter"  
+ALORS L'utilisateur se voit rediriger vers la page d’accueil de l’application avec un bouton intitulé "Ouvrir". 
  
