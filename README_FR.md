@@ -23,7 +23,7 @@ ET quelques données pour chaque compte
 ET la page a un bouton "Quitter" dans la barre de navigation.
 ___
 **SCÉNARIO: L'utilisateur lance votre application plusieurs fois successivement**   
-LORSQUE l'utilisateur est sur l'écran d'accueil de son appareil mobile   
+LORSQUE l'utilisateur est sur l'écran d'accueil de son appareil mobile  
 ET l'utilisateur a déjà ouvert l'application auparavant 
 ET l'utilisateur n'a pas tapé sur le bouton "Quitter" lors de sa session précédente 
 QUAND l'utilisateur ouvre l'application 
