@@ -1,4 +1,4 @@
-# [__**Version Française**__](https://github.com/josecfernandes/ml-app-challenge/blob/master/README_FR.md)
+# [__**Version Française**__](README_FR.md)
 
 ## Application Challenge
 ##### Coding challenge for prospective candidates
