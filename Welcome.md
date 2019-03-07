@@ -5,6 +5,7 @@ Thank you for your interest in the <PLATFORM> Engineer role at Manulife. As part
 Proceed to the following link and follow the instructions: <https://github.com/seyDoggy/ml-app-challenge>
 
 When complete, please share your code back with us, either by attaching a zip or sending us link to download or clone your code. Ensure that we have the instructions required to build and run your code.
+
 Best of luck and please feel free to ask questions.
 
 Regards, <YOUR NAME HERE>
